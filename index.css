@@ -1,0 +1,39 @@
+
+
+div{
+    background-color: lightgrey;
+    
+    width: 3000px;
+}
+
+.puma{
+    height: 550px;
+    width: 600px;
+}
+
+.water{
+    height: 550px;
+    width: 600px;
+    padding-left:400px;
+}
+
+.jeep{
+    height: 450px;
+    width: 550px;
+    align-items: center;
+}
+
+img{
+    padding-left: 450px;
+}
+h3{
+    padding-left: 650px;
+}
+
+h1{
+    padding-left: 650px;
+}
+.final{
+    padding-left: 0px;
+}
+
